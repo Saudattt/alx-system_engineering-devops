@@ -1,1 +1,1 @@
-Task 8 writes a script that sets the permission to the file 'hello'
+Task 9 writes a script that sets the mode of the file 'hello'
