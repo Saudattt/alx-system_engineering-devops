@@ -1,1 +1,1 @@
-Task 7 writes a script that adss execution permission to the owner, the group owner and the other users, to the file 'hello'
+Task 8 writes a script that sets the permission to the file 'hello'
