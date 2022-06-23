@@ -1,1 +1,1 @@
-Task 4 writes a script that creates an empty file called hello
+Task 5 writes a script that adds execute permission to the owner of the fille 'hello'
