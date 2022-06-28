@@ -15,3 +15,4 @@
 14. converts a number from base 10 to base 16
 15. encodes and decodes text using the rot13 encryption. Assume ASCII
 16. prints every other line from the input
+17.  adds the two numbers stored in the environment variables WATER and STIR and prints the result
